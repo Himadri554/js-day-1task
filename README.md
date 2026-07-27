@@ -1,2 +1,2 @@
-# js-day-1task
+# My React App
 My first Javascript practice repo
